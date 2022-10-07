@@ -52,8 +52,8 @@ p {
 
 .portrait {
     width: 15%;
-    /*padding: 20px;
-    margin: 4px;*/
+    padding: 20px;
+    margin: 4px;
 }
 
 /*about me stuff*/
@@ -81,9 +81,10 @@ p {
     background-color: #138AFA;
     color: #ffffff;
 }
-.footer div {
+.footer div ul {
     float: right;
     display: inline;
+    list-style-type: none;
 }
 
 /* NEED TO INCLUDE MEDIA QUERRY, STARTING WITH DESKTOP
