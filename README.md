@@ -9,7 +9,7 @@ This project showcases my coding work allowing potential employeers to see my wo
 - Clone with repository: https://github.com/gjferrari/GenevieveFerrariPortfolio
   - git clone git@github.com:gjferrari/GenevieveFerrariPortfolio
 - Open Repo with VS Code or IDE of your choice
-- Open Index.html with Live Server to inspect Code or visit
+- Open Index.html with Live Server to inspect Code or visit https://gjferrari.github.io/GenevieveFerrariPortfolio/
 
 ## Liscense
 
