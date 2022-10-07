@@ -5,6 +5,7 @@
     margin: 0;
 } 
 
+/*GOALS FOR SECOND DRAFT: CREATE CLASSES FOR COLORS, LIGHT & DARK COLOR THEME FOR EXAMPLE*/
 
 body {
     background-color: #97F1B7;
@@ -50,7 +51,7 @@ p {
 }
 
 .portrait {
-    width: 20%;
+    width: 15%;
     /*padding: 20px;
     margin: 4px;*/
 }
@@ -70,7 +71,7 @@ p {
 }
 
 .project1 {
-    width:30%
+    width: 45%
 }
 
 
@@ -86,4 +87,4 @@ p {
 }
 
 /* NEED TO INCLUDE MEDIA QUERRY, STARTING WITH DESKTOP
-CURRENTLY 
+CURRENTLY DO NOT UNDERSTAND HOW TO PROCEED SO WILL NEED TO RETURN TO CSS AFTER TUTORING 
